@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Fabio Simoes
+        Simoes
         Research Group
       image:
         filename: welcome.jpg
