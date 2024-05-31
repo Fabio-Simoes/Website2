@@ -3,39 +3,39 @@
 title: Nelson Bighetti
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Fabio
+last_name: Simoes
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Lecturer in Cancer Research
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Brighton and Sussex Medical School
+    url: (https://www.bsms.ac.uk/research/index.aspx)
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Acute Myeloid Leukaemia
+  - Leukaemia microenvironment
+  - Disease modelling
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Motor Neuron Diseases
+      institution: Brighton and Sussex Medical School
+      year: 2013-2017
+    - course: MSc in Neuroscience
+      institution: King's College London
+      year: 2012-23
+    - course: BSs(Hons) in Biomedical Science
+      institution: Queen Mary University of London
+      year: 2008-2011
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
