@@ -3,8 +3,8 @@
 title: Fabio Simoes
 
 # Full Name (for SEO)
-first_name: Fabio
-last_name: Simoes
+first_name: Fabio Andre
+last_name: Amaral Lopes Simoes
 
 # Is this the primary user of the site?
 superuser: true
@@ -44,14 +44,14 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'F.A.Sioes@bsms.ac.uk'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/DrFabioSimoes
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+  - icon: orcid
     icon_pack: fab
     link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
