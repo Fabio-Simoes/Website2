@@ -29,13 +29,13 @@ education:
   courses:
     - course: PhD in Motor Neuron Diseases
       institution: Brighton and Sussex Medical School
-      year: 2013-2017
+      year: 2013-17
     - course: MSc in Neuroscience
       institution: King's College London
-      year: 2012-23
+      year: 2012-13
     - course: BSs(Hons) in Biomedical Science
       institution: Queen Mary University of London
-      year: 2008-2011
+      year: 2008-11
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
