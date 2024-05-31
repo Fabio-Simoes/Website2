@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Fabio Simoes
 
 # Full Name (for SEO)
 first_name: Fabio
@@ -18,7 +18,7 @@ organizations:
     url: (https://www.bsms.ac.uk/research/index.aspx)
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include acute myeloid leukaemia and the cancer microenvironment.
 
 interests:
   - Acute Myeloid Leukaemia
