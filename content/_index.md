@@ -8,8 +8,8 @@ sections:
   - block: Home
     content:
       title: |
-        Simoes
-        Research Group
+        Simoes Lab
+
       image:
         filename: welcome.jpg
       text: |
