@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Simoes Research Group** is a new lab at BSMS focussing on the interactions between cancer cells and their microenvironemnt. 
   
   - block: collection
     content:
