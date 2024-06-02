@@ -9,9 +9,7 @@ sections:
     content:
       title: |
         Simoes Lab
-
-      image:
-        filename: Meet the team.jpg
+    
       text: |
         <br>
         
