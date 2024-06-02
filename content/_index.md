@@ -8,7 +8,7 @@ sections:
   - block: Hero
     content:
       title: |
-        Simoes Research Group
+        Welcome!
     
       text: |
         <br>
