@@ -14,16 +14,16 @@ sections:
       phone: +44 1273 877041
       address:
         street: Medical Research Building, University of Sussex
-        city: Brighton
-        region: Falmer
+        city: Falmer
+        region: Brighton
         postcode: 'BN1 9PS'
         country: United Kingdom
         country_code: UK
       coordinates:
         latitude: '50.864007'
         longitude: '-0.084748'
-      directions: Enter the foyer and take the stairs to Office 2.04 on Floor 2
-      appointment_url: 'https://calendly.com'
+      directions: Enter the Medical Research Building (note this is behind the Medical Teaching Building) and call reception. We are on the second floor, up the stairs through the security door.
+     
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
