@@ -21,7 +21,7 @@ sections:
           filename: Banner.png
           filters:
             brightness: 1
-          parallax: True
+          parallax: False
           position: center
           size: cover
           text_color_light: true
