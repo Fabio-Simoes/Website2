@@ -8,8 +8,6 @@ sections:
   - block: Hero
     content:
       title: |
-        Welcome!
-    
       text: |
         <br>
         
