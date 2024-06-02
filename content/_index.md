@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Fabio Simoes
+title: Simoes Lab
 date: 2022-10-24
 type: landing
 
