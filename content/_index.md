@@ -20,6 +20,8 @@ sections:
   - block: markdown
     content:
       title:
+      image:
+        filename: welcome.jpg
       subtitle:
       text: |
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
