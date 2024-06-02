@@ -13,7 +13,7 @@ sections:
       text: |
         <br>
         
-        The **Simoes Research Group** is a new lab at BSMS focussing on the interactions between cancer cells and their microenvironment.
+        The **Simoes Research Group** is a new lab at BSMS focusing on the interactions between cancer cells and their microenvironment.
     design:
       columns: '1'
       background:
