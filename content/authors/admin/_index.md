@@ -44,16 +44,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'F.A.Sioes@bsms.ac.uk'
+    link: F.A.Simoes@bsms.ac.uk
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/DrFabioSimoes
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=YSZwCxsAAAAJ&hl=en&oi=ao
   - icon: orcid
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://orcid.org/0000-0001-7630-0091
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
