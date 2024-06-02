@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: Simoes Lab
+title: Simoes 
 date: 2022-10-24
 type: landing
 
@@ -8,7 +8,7 @@ sections:
   - block: Hero
     content:
       title: |
-        Simoes Lab
+        Simoes Research Group
     
       text: |
         <br>
