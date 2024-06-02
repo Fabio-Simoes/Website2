@@ -15,7 +15,7 @@ role: Lecturer in Cancer Research
 # Organizations/Affiliations
 organizations:
   - name: Brighton and Sussex Medical School
-    url: (https://www.bsms.ac.uk/research/index.aspx)
+    url: https://www.bsms.ac.uk/research/index.aspx
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include acute myeloid leukaemia and the cancer microenvironment.
