@@ -19,14 +19,20 @@ sections:
 
   - block: markdown
     content:
-      title:
-      image:
-        filename: welcome.jpg
-      subtitle:
+      title: ''
+      subtitle: ''
       text: |
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
+      background:
+        filename: Meet the team.jpg
+        filters:
+          brightness: 1
+        parallax: true
+        position: center
+        size: cover
+        text_color_light: true
   
   - block: collection
     content:
