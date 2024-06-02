@@ -11,7 +11,7 @@ sections:
         Simoes Lab
 
       image:
-        filename: welcome.jpg
+        filename: Meet the team.jpg
       text: |
         <br>
         
