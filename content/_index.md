@@ -11,7 +11,7 @@ sections:
       text: |
         <br>
         
-        The **Simoes Research Group** is a new lab at Brighton and Sussex Medical School focusing on the interactions between cancer cells and their microenvironment.
+        The **Simoes Lab** is a new lab at Brighton and Sussex Medical School focusing on the interactions between cancer cells and their microenvironment.
     design:
       columns: '1'
       background:
