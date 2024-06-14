@@ -22,8 +22,7 @@ sections:
       coordinates:
         latitude: '50.864007'
         longitude: '-0.084748'
-      directions: Enter the Medical Research Building (note this is behind the Medical Teaching Building) and call reception. We are on the second floor, up the stairs through the security door.
-     
+      directions: Enter the Medical Research Building (note this is behind the Medical Teaching Building) and call reception. We are on the second floor, up the stairs through the security door.     
 ![image](https://github.com/Fabio-Simoes/Website2/assets/60777427/a46c5d30-ee1a-4d91-85e6-00bb46acd1ce)
 
       #contact_links:
