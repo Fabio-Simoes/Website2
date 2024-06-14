@@ -8,21 +8,24 @@ sections:
   - block: contact
     content:
       title: Contact
-      text: |-
-       
-      email: F.A.Simoes@bsms.ac.uk
-      phone: +44 1273 877041
-      address:
-        street: Medical Research Building, University of Sussex
-        city: Falmer
-        region: Brighton
-        postcode: 'BN1 9PS'
-        country: United Kingdom
-        country_code: UK
-      coordinates:
-        latitude: '50.864007'
-        longitude: '-0.084748'
-      directions: Enter the Medical Research Building (note this is behind the Medical Teaching Building) and call reception. We are on the second floor, up the stairs through the security door.
+      text: |
+        email: F.A.Simoes@bsms.ac.uk
+        phone: +44 1273 877041
+        address:
+          street: Medical Research Building, University of Sussex
+          city: Falmer
+          region: Brighton
+          postcode: 'BN1 9PS'
+          country: United Kingdom
+          country_code: UK
+          coordinates:
+            latitude: '50.86407'
+            longitude: '-0.084748'
+          directions: Enter the Medical Research Building (note this is behind the Medical Teaching Building) and call reception. We are on the second floor, up the stairs through the security door.
+    spacing:
+      padding: ['10px', '0', '10px', '0']  # Reduced padding
+      margin: ['10px', '0', '10px', '0']   # Reduced margin
+    css_class: ''
      
       #contact_links:
       #  - icon: comments
