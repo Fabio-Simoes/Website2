@@ -42,7 +42,7 @@ sections:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: true
     design:
-      columns: '1'
+      columns: '2'
 
 
 ---
